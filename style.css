@@ -107,3 +107,27 @@ nav a {
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     padding-top: 25px;
 }
+
+.ContactMe {
+    flex: 4;
+    background-color: darkred;
+    height: 200px;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+
+.heading3 {
+    text-align: left;
+    color: black;
+    justify-content: space-evenly;
+    display: block;
+    flex: auto;
+    font-size: 30px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    padding-left: 25px;
+}
+
+h2 {
+    align-content: center;
+    justify-content: center;
+}
