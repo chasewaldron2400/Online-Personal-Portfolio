@@ -1,0 +1,109 @@
+@font-face {
+    font-family: "ALAMBRADO.ttf";
+    src: url(Assets/ALAMBRADO.ttf);
+}
+
+@font-face {
+    font-family: "WWERAW.ttf";
+    src: url(Assets/WWERaw.ttf);
+}
+
+
+.Heading {
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    font-size: 50px;
+    font-family: "WWERAW.ttf";
+    font-weight: lighter;
+    background-color: darkred;
+    letter-spacing: 10px;
+    
+}
+
+nav {
+    display: flex;
+    background-color: darkslategray;
+    height: 75px;
+    padding-top: 30px;
+}
+
+nav a {
+    text-align: center;
+    color: black;
+    justify-content: space-evenly;
+    display: inline;
+    flex: auto;
+    font-size: 30px;
+    font-family: "ALAMBRADO.ttf";
+}
+
+.Projects {
+    flex: 4;
+    background-color: darkred;
+    height: 1000px;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+
+.heading1 {
+    text-align: center;
+    color: black;
+    justify-content: space-evenly;
+    display: block;
+    flex: auto;
+    font-size: 30px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    padding-top: 25px;
+}
+
+.RefProj {
+    display: block;
+    margin: 0 auto;
+    max-width: 200px;
+    max-height: 200px;
+}
+
+.imgtext1 {
+    flex: auto;
+    text-align: center;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    display: block;
+    font-size: 30px;
+}
+.imagecontainer {
+    text-align: center;
+    flex-shrink: auto;
+}
+
+.aboutMe {
+    padding-bottom: 15px;
+    height: 1000px;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    background-color: darkred;
+}
+
+.imgtext2 {
+    flex: auto;
+    text-align: center;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    display: block;
+    font-size: 30px;
+}
+
+.imagecontainer2 {
+    text-align: center;
+    flex-shrink: auto;
+}
+
+.heading2 {
+    text-align: center;
+    color: black;
+    justify-content: space-evenly;
+    display: block;
+    flex: auto;
+    font-size: 30px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    padding-top: 25px;
+}
