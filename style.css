@@ -41,7 +41,7 @@ nav a {
 .Projects {
     flex: 4;
     background-color: darkred;
-    height: 1000px;
+    height: 1400px;
     flex-wrap: wrap;
     justify-content: space-evenly;
 }
@@ -74,6 +74,7 @@ nav a {
 .imagecontainer {
     text-align: center;
     flex-shrink: auto;
+    padding: 15px;
 }
 
 .aboutMe {
@@ -122,7 +123,8 @@ nav a {
     justify-content: space-evenly;
     display: block;
     flex: auto;
-    font-size: 30px;
+    font-size: 25px;
+    font-weight: bold;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     padding-left: 25px;
 }
@@ -130,4 +132,18 @@ nav a {
 h2 {
     align-content: center;
     justify-content: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.photos {
+    height: 600px;
+    width: 400px;
+}
+
+a {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: black;
+    font-size: 30px;
+    text-align: center;
+    align-items: center;
 }
