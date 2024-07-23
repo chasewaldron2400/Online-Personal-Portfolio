@@ -54,7 +54,7 @@ nav a {
 .Projects {
     flex: 4;
     background-color:silver;
-    height: 2200px;
+    height: 2650px;
     display: flex;
     justify-content: space-evenly;
     flex-direction: column;
@@ -134,9 +134,9 @@ h2 {
     font-family: Arial, Helvetica, sans-serif;
 }
 
-.photos {
-    height: 600px;
-    width: 400px;
+.photos1 {
+    height: 750px;
+    width: 1000px;
 }
 
 a {
