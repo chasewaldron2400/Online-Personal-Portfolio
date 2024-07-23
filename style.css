@@ -54,7 +54,7 @@ nav a {
 .Projects {
     flex: 4;
     background-color:silver;
-    height: 1500px;
+    height: 2200px;
     display: flex;
     justify-content: space-evenly;
     flex-direction: column;
